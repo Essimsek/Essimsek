@@ -15,6 +15,7 @@ Lately, I'm diving into **machine learning** to expand my skill set.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 #### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -39,6 +40,7 @@ Lately, I'm diving into **machine learning** to expand my skill set.
 ![Terminal](https://img.shields.io/badge/-CLI-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
+
 
 ### 📊 GitHub Stats
 
